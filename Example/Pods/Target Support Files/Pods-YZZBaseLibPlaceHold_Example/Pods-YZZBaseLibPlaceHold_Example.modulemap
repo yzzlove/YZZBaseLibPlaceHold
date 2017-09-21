@@ -1,0 +1,6 @@
+framework module Pods_YZZBaseLibPlaceHold_Example {
+  umbrella header "Pods-YZZBaseLibPlaceHold_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

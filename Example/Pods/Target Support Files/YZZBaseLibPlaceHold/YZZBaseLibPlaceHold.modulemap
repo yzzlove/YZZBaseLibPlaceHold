@@ -1,0 +1,6 @@
+framework module YZZBaseLibPlaceHold {
+  umbrella header "YZZBaseLibPlaceHold-umbrella.h"
+
+  export *
+  module * { export * }
+}
