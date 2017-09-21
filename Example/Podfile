@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'YZZBaseLibPlaceHold_Example' do
+  pod 'YZZBaseLibPlaceHold', :path => '../'
+
+  target 'YZZBaseLibPlaceHold_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
